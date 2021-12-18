@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4EO8QOf7Kxw5P7/tg8P1ZkkIIOC1UG/3ULcVfFiNXV/JWXnK0khZTaKRzDXDErFyh89gIWbQ/Pu4yc/+SNMqnw==",
+  "dgSpecHash": "9jKWj6KTWiugWozMWPelQQmLySvj4/YFPo6HH7xhJDxIjUzNTxvuptoipkC164HyMHSj555PiyL7TTB9Fq8kfw==",
   "success": true,
   "projectFilePath": "E:\\spil\\Test\\Reports-DevEpress-Galeery\\Reports-DevEpress-Galeery.csproj",
   "expectedPackageFiles": [
@@ -96,6 +96,7 @@
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.net.http.headers\\2.0.0\\microsoft.net.http.headers.2.0.0.nupkg.sha512",
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.113\\microsoft.web.librarymanager.build.2.1.113.nupkg.sha512",
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
     "C:\\Users\\UsmanSPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

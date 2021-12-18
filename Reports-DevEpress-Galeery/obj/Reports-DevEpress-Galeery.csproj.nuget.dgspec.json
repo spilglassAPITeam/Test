@@ -51,6 +51,10 @@
             "DevExpress.AspNetCore.Reporting": {
               "target": "Package",
               "version": "[21.2.3, )"
+            },
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.113, )"
             }
           },
           "imports": [

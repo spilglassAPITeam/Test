@@ -1,3 +1,4 @@
+using DevExpress.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +25,12 @@ namespace Reports_DevEpress_Galeery
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            // Register reporting services in an application's dependency injection container.
+            services.AddDevExpressControls();
+
+            // Use the AddMvcCore (or AddMvc) method to add MVC services.
+            services.AddMvcCore();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,6 +39,7 @@ namespace Reports_DevEpress_Galeery
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+
             }
             else
             {
@@ -41,6 +49,9 @@ namespace Reports_DevEpress_Galeery
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            // Initialize reporting services.
+            app.UseDevExpressControls();
 
             app.UseRouting();
 

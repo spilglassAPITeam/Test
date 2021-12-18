@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9jKWj6KTWiugWozMWPelQQmLySvj4/YFPo6HH7xhJDxIjUzNTxvuptoipkC164HyMHSj555PiyL7TTB9Fq8kfw==",
+  "dgSpecHash": "LdIvE6xrj7/P9ccef8oUItanjFmv07kw+RnJwJ0Orfk1xXAmUPgXw+PUscZBnZKvijhl8WIljD51ZCfph8eQhg==",
   "success": true,
   "projectFilePath": "E:\\spil\\Test\\Reports-DevEpress-Galeery\\Reports-DevEpress-Galeery.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\UsmanSPC\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "E:\\spil\\devexpress 2\\Components\\Offline Packages\\devexpress.aspnetcore.common\\21.2.3\\devexpress.aspnetcore.common.21.2.3.nupkg.sha512",
     "E:\\spil\\devexpress 2\\Components\\Offline Packages\\devexpress.aspnetcore.core\\21.2.3\\devexpress.aspnetcore.core.21.2.3.nupkg.sha512",
     "E:\\spil\\devexpress 2\\Components\\Offline Packages\\devexpress.aspnetcore.reporting\\21.2.3\\devexpress.aspnetcore.reporting.21.2.3.nupkg.sha512",

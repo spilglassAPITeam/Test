@@ -5,4 +5,8 @@
     <RootNamespace>Reports_DevEpress_Galeery</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="21.2.3" />
+  </ItemGroup>
+
 </Project>

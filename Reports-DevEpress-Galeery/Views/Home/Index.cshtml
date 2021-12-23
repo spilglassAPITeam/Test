@@ -6,3 +6,10 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+@using Reports_DevEpress_Galeery.Reports
+
+<link rel="stylesheet" href="~/css/viewer.part.bundle.css" />
+<script src="~/js/viewer.part.bundle.js"></script>
+
+@Html.DevExpress().WebDocumentViewer("DocumentViewer").Height("1000px").Bind(new TestReport())

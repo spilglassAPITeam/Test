@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Reports-DevEpress-Galeery/bin/Debug/netcoreapp3.1
+/Reports-DevEpress-Galeery/node_modules/@babel/runtime
+/Reports-DevEpress-Galeery/node_modules/y18n/build
+/Reports-DevEpress-Galeery/node_modules/rrule/node_modules/tslib
+/Reports-DevEpress-Galeery/node_modules
+/Reports-DevEpress-Galeery/obj/Debug/netcoreapp3.1/staticwebassets
+/Reports-DevEpress-Galeery/wwwroot
